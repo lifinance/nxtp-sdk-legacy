@@ -25,9 +25,9 @@
     "graphqlsdk.ts"
   ],
   "dependencies": {
-    "@connext/nxtp-contracts": "workspace:*",
-    "@connext/nxtp-txservice": "workspace:*",
-    "@connext/nxtp-utils": "workspace:*",
+    "@connext/nxtp-contracts": "0.1.42",
+    "@connext/nxtp-txservice": "0.1.42",
+    "@connext/nxtp-utils": "0.1.42",
     "@sinclair/typebox": "0.20.6",
     "ajv": "^8.6.2",
     "ajv-formats": "^2.1.1",
